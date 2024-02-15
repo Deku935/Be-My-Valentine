@@ -175,7 +175,7 @@ body{
     #question-container{
         top: 20%;
         left: 15%;
-        font-size: 2em;
+        font-size: 1.5em;
     }
 
     /* YES NO BUTTONS AND IMAGES */
@@ -216,7 +216,7 @@ body{
 
     /* YES HUG GIF */
     #gif-container{
-        top: 100px;
+        top: 150px;
         left: 2%;
     }
 
