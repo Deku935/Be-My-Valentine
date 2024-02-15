@@ -43,8 +43,8 @@ buttonRight.addEventListener("click", () => {
     const valueTop = [-500, -400, -300, -250, 60, 100];
     const valueLeft = [-700, -600, -500, -450, 60, 100, 200, 300, 400, 500];
     
-    const valueMobileTop = [-600, -500, -400, -300, 70, 100, 130 ]
-    const valueMobileLeft = [-290, -250, -200, -150, -100, -50];
+    const valueMobileTop = [ -400, -350, -300, -250, -200 ]
+    const valueMobileLeft = [-230, -250, -200, -150, -100, -50];
 
     // Choose random index within array
     if (mediaQuery.matches) {
